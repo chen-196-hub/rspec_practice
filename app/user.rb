@@ -1,7 +1,4 @@
 class User
-  attr_reader :bollowed_books
-  attr_reader :bought_books
-
   # 本を買う
   # 本を借りる
   # 買った本を表示する
